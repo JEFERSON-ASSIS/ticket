@@ -1,0 +1,9 @@
+2022/03/16-00:13:10.250 403d Reusing MANIFEST /home/deploy/whaticket/backend/.wwebjs_auth/session-bd_3/Default/Local Storage/leveldb/MANIFEST-000001
+2022/03/16-00:13:10.250 403d Recovering log #3
+2022/03/16-00:13:10.250 403d Reusing old log /home/deploy/whaticket/backend/.wwebjs_auth/session-bd_3/Default/Local Storage/leveldb/000003.log 
+2022/03/16-03:47:10.388 444f Level-0 table #5: started
+2022/03/16-03:47:10.392 444f Level-0 table #5: 12620 bytes OK
+2022/03/16-03:47:10.394 444f Delete type=0 #3
+2022/03/16-10:10:10.372 4467 Level-0 table #7: started
+2022/03/16-10:10:10.376 4467 Level-0 table #7: 8671 bytes OK
+2022/03/16-10:10:10.379 4467 Delete type=0 #4

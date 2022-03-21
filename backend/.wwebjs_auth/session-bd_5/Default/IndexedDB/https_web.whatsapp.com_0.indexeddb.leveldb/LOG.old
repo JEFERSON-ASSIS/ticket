@@ -1,0 +1,17 @@
+2022/03/16-15:34:01.350 610f Reusing MANIFEST /home/deploy/whaticket/backend/.wwebjs_auth/session-bd_5/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/16-15:34:01.350 610f Recovering log #34
+2022/03/16-15:34:01.351 610f Reusing old log /home/deploy/whaticket/backend/.wwebjs_auth/session-bd_5/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000034.log 
+2022/03/16-15:34:01.351 610f Delete type=2 #33
+2022/03/16-15:34:01.394 610c Level-0 table #39: started
+2022/03/16-15:34:01.396 610c Level-0 table #39: 1947 bytes OK
+2022/03/16-15:34:01.398 610c Delete type=0 #34
+2022/03/16-15:34:01.399 610c Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/16-15:34:01.399 610c Manual compaction at level-1 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\xc8\x13\x00s\x00i\x00g\x00n\x00e\x00d\x00-\x00p\x00r\x00e\x00k\x00e\x00y\x00-\x00s\x00t\x00o\x00r\x00e' @ 200707 : 0
+2022/03/16-15:34:01.399 610c Compacting 1@1 + 1@2 files
+2022/03/16-15:34:01.402 610c Generated table #40@1: 235 keys, 8211 bytes
+2022/03/16-15:34:01.402 610c Compacted 1@1 + 1@2 files => 8211 bytes
+2022/03/16-15:34:01.404 610c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/16-15:34:01.404 610c Delete type=2 #39
+2022/03/16-15:34:01.404 610c Manual compaction at level-1 from '\x00\x0b\x00\x00\xc8\x13\x00s\x00i\x00g\x00n\x00e\x00d\x00-\x00p\x00r\x00e\x00k\x00e\x00y\x00-\x00s\x00t\x00o\x00r\x00e' @ 200707 : 0 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/16-15:34:01.417 610b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/16-15:34:01.417 610b Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,33 @@
+2022/03/16-00:13:10.667 403c Reusing MANIFEST /home/deploy/whaticket/backend/.wwebjs_auth/session-bd_3/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/16-00:13:10.667 403c Recovering log #17
+2022/03/16-00:13:10.715 403c Reusing old log /home/deploy/whaticket/backend/.wwebjs_auth/session-bd_3/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000017.log 
+2022/03/16-00:53:17.477 403c Level-0 table #22: started
+2022/03/16-00:53:17.512 403c Level-0 table #22: 1260822 bytes OK
+2022/03/16-00:53:17.517 403c Delete type=0 #17
+2022/03/16-00:54:50.115 403c Compacting 1@1 + 1@2 files
+2022/03/16-00:54:50.210 403c Generated table #23@1: 37278 keys, 2231681 bytes
+2022/03/16-00:54:50.233 403c Generated table #24@1: 15470 keys, 249019 bytes
+2022/03/16-00:54:50.233 403c Compacted 1@1 + 1@2 files => 2480700 bytes
+2022/03/16-00:54:50.236 403c compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/03/16-00:54:50.237 403c Delete type=2 #22
+2022/03/16-00:54:50.237 403c Delete type=2 #19
+2022/03/16-05:18:16.753 403c Level-0 table #26: started
+2022/03/16-05:18:16.813 403c Level-0 table #26: 1196566 bytes OK
+2022/03/16-05:18:16.822 403c Delete type=0 #21
+2022/03/16-05:20:12.300 444f Compacting 1@1 + 1@2 files
+2022/03/16-05:20:12.409 444f Generated table #27@1: 40416 keys, 2238764 bytes
+2022/03/16-05:20:12.415 444f Generated table #28@1: 1652 keys, 79356 bytes
+2022/03/16-05:20:12.415 444f Compacted 1@1 + 1@2 files => 2318120 bytes
+2022/03/16-05:20:12.418 444f compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/03/16-05:20:12.418 444f Delete type=2 #26
+2022/03/16-05:20:12.418 444f Delete type=2 #23
+2022/03/16-10:02:28.763 4d92 Level-0 table #30: started
+2022/03/16-10:02:28.814 4d92 Level-0 table #30: 1161346 bytes OK
+2022/03/16-10:02:28.820 4d92 Delete type=0 #25
+2022/03/16-10:03:53.797 4d92 Compacting 1@1 + 1@2 files
+2022/03/16-10:03:53.921 4d92 Generated table #31@1: 45242 keys, 2254946 bytes
+2022/03/16-10:03:53.936 4d92 Generated table #32@1: 9 keys, 95037 bytes
+2022/03/16-10:03:53.936 4d92 Compacted 1@1 + 1@2 files => 2349983 bytes
+2022/03/16-10:03:53.939 4d92 compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/03/16-10:03:53.940 4d92 Delete type=2 #27
+2022/03/16-10:03:53.940 4d92 Delete type=2 #30

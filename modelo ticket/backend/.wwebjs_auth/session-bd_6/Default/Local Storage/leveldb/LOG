@@ -1,0 +1,26 @@
+2022/03/18-22:07:28.072 28de Reusing MANIFEST /home/deploy/whaticket/backend/.wwebjs_auth/session-bd_6/Default/Local Storage/leveldb/MANIFEST-000001
+2022/03/18-22:07:28.073 28de Recovering log #20
+2022/03/18-22:07:28.073 28de Level-0 table #23: started
+2022/03/18-22:07:28.079 28de Level-0 table #23: 8629 bytes OK
+2022/03/18-22:07:28.080 28de Delete type=0 #20
+2022/03/19-04:14:28.234 28e3 Level-0 table #26: started
+2022/03/19-04:14:28.237 28e3 Level-0 table #26: 9275 bytes OK
+2022/03/19-04:14:28.239 28e3 Delete type=0 #24
+2022/03/19-04:14:28.239 28e3 Compacting 4@0 + 1@1 files
+2022/03/19-04:14:28.243 28e3 Generated table #27@0: 8 keys, 1256 bytes
+2022/03/19-04:14:28.243 28e3 Compacted 4@0 + 1@1 files => 1256 bytes
+2022/03/19-04:14:28.244 28e3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/19-04:14:28.245 28e3 Delete type=2 #19
+2022/03/19-04:14:28.245 28e3 Delete type=2 #26
+2022/03/19-04:14:28.245 28e3 Delete type=2 #17
+2022/03/19-04:14:28.245 28e3 Delete type=2 #23
+2022/03/19-04:14:28.245 28e3 Delete type=2 #21
+2022/03/19-10:37:28.234 3b16 Level-0 table #29: started
+2022/03/19-10:37:28.236 3b16 Level-0 table #29: 8592 bytes OK
+2022/03/19-10:37:28.238 3b16 Delete type=0 #25
+2022/03/19-16:59:28.240 48f6 Level-0 table #31: started
+2022/03/19-16:59:28.242 48f6 Level-0 table #31: 8755 bytes OK
+2022/03/19-16:59:28.244 48f6 Delete type=0 #28
+2022/03/20-03:19:17.288 3f14 Level-0 table #33: started
+2022/03/20-03:19:17.290 3f14 Level-0 table #33: 8673 bytes OK
+2022/03/20-03:19:17.292 3f14 Delete type=0 #30

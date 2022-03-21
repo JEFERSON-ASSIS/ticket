@@ -1,0 +1,2 @@
+2022/03/15-20:29:44.539 5762 Creating DB /home/deploy/whaticket/backend/.wwebjs_auth/session-bd_4/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/03/15-20:29:44.546 5762 Reusing MANIFEST /home/deploy/whaticket/backend/.wwebjs_auth/session-bd_4/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001

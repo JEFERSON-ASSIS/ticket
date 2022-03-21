@@ -1,0 +1,4 @@
+2022/03/16-19:04:26.924 6715 Reusing MANIFEST /home/deploy/whaticket/backend/.wwebjs_auth/session-bd_5/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/16-19:04:26.924 6715 Recovering log #38
+2022/03/16-19:04:26.925 6715 Reusing old log /home/deploy/whaticket/backend/.wwebjs_auth/session-bd_5/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000038.log 
+2022/03/16-19:04:26.925 6715 Delete type=2 #36
